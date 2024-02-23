@@ -74,7 +74,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd hello-rails-react
-  git clone https://github.com/MayPyone/hello-rails-react.git
+  git clone https://github.com/Ochiengsteven/React-Rails-Hello-World-with-Webpack.git
 ```
 
 ### Install
@@ -82,7 +82,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd hello-rails-react
+  cd React-Rails-Hello-World-with-Webpack
   bundle install
   npm install
   gem install rspec
@@ -100,32 +100,19 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-- `rubocop --color`
-- `rspec spec --format doc`
+- `rubocop`
+- `rspec`
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Deployment
-
--
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-👤 **Christopher Uduekwe**
+👤 **Ochieng Steven**
 
-- GitHub: [@Chudisoft](https://github.com/chudisoft/)
-- LinkedIn: [Christopher Uduekwe](https://www.linkedin.com/in/chudisoft)
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[Accept User's name]**
-- [ ] **[Accept User's Age]**
-- [ ] **[Personalize User's message]**
+- GitHub: [@Chudisoft](https://github.com/Ochiengsteven/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
