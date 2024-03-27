@@ -116,6 +116,11 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features
+**- Add more greetings**
+
+**- Improve the UI of the site**
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
